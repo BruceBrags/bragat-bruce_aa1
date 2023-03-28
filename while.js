@@ -1,7 +1,7 @@
 var x = 0;
 document.write("While loop: <br>");
-while(x < 52){
+while(x < 51){
 	document.write(+x+ ", ");
 	x++;
 }
-document.write("<br>")
+document.write(+x+ "<br>")
